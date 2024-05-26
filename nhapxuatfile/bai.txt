@@ -1,0 +1,12 @@
+Cac bo phim cung dao dien dinh van sang la:
+anh hung bong toi
+
+Cac bo phim cung the loai hanh dong la:
+anh hung bong toi
+biet doi sieu anh hung
+
+Cac bo phim cung dien vien nam:dinh van sang la:
+anh hung bong toi
+
+Cac bo phim cung dao dien chau lim luong la:
+
